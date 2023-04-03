@@ -1,4 +1,2 @@
 # MuhammadAqeelPortfolio
-This is my CV and My pratice of different computer Languages
-"Kaun Banega Corere Pati" Project in "Python"
-"Snack Water Gun Game" Project in "Python"
+Hi 👋' My name is "Muhammad Aqeel" & I'm a studying BS (Computer Science) from National textile university FSD. Here is my github account plz check my repositories and follow me for more updates.
